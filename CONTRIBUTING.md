@@ -1,8 +1,8 @@
 # Contributing
 
-Thanks for wanting to help with Smooth Moves (Smooth Mo / Order 17). This repo publishes MIT source and notes for a Windows pointer motor meant for agents â€” real mouse and keyboard input when APIs, MCP, accessibility, and hooks are not enough.
+Thanks for wanting to help with Smooth Moves (Smooth Mo / Order 17). This repo publishes MIT source and notes for a Windows pointer motor meant for agents: real mouse and keyboard input when APIs, MCP, accessibility, and hooks are not enough.
 
-**Code contributions are welcome from AI agents and from human contributors, equally.** Same rules, same review â€” no preference and no penalty for either.
+**Code contributions are welcome from AI agents and from human contributors, equally.** Same rules, same review: no preference and no penalty for either.
 
 ## How to submit code
 
@@ -18,7 +18,7 @@ Match the existing SmoothMoves-rs codebase as closely as you can:
 - **Rust** with ordinary `rustfmt` / Clippy-friendly code; keep comments short and literal.
 - Prefer **foreground-only** interaction and **hwnd / rect** scoped checks over whole-screen assumptions.
 - Keep builds **laptop-friendly** (about 8 GB RAM class): no huge dependencies, no big model weights in-tree.
-- **No binaries** in this GitHub repo â€” source text, docs, and landing page only.
+- **No binaries** in this GitHub repo: source text, docs, and landing page only.
 - Do not add money, mail, messaging, or credential automation helpers unless that is explicitly the PR topic (default: leave those alone).
 
 ## Keep changes small
