@@ -2,13 +2,15 @@
 
 ## For humans
 
-Smooth Moves is a Windows mouse and pointer motor for agents and automation that need real cursor control when APIs, SDKs, and accessibility layers cannot reach the UI. It moves, clicks, and drags like a careful person — under window and region guards — so automation can finish the steps that endpoints alone cannot.
+**Real input events for agents.** Programmatic mouse and keyboard control, element targeting, and page interaction through real input events â€” not simulated clicks â€” including where APIs, SDKs, accessibility layers, and **MCP** alone cannot reach the UI.
 
-**Capability:** Smooth Mo / Smooth Moves Order 17 under Digital Normie — human-like Windows pointer motor.
+Local pointer control first. When the API ends, the cursor still has to move.
+
+Smooth Moves (Smooth Mo / Order 17 under Digital Normie) moves, clicks, and drags like a careful person under window and region guards, so automation can finish the steps that endpoints alone cannot.
 
 ## Origin
 
-Web navigation problems that APIs, MCP, accessibility trees, and hooks cannot solve. Agents need human-like mouse and pointer control on real Windows desktops — not synthetic DOM clicks alone.
+Web and desktop navigation gaps that APIs, MCP, accessibility trees, and hooks cannot close. Agents need human-like mouse and pointer control on real Windows desktops â€” not synthetic DOM clicks alone.
 
 ## License
 
@@ -31,5 +33,5 @@ MIT. See [LICENSE](https://github.com/DAD-delegate/smooth-moves-order17/blob/mai
 ## Brief
 
 - **Windows-only** pointer motor (Order 17).
-- **No binaries** in this repository — source text and landing page only.
-- Built for agent-first publishing and human-like desktop control where APIs fall short.
+- **No binaries** in this repository â€” source text and landing page only.
+- Agent-first: human-like desktop control where APIs and MCP fall short.
