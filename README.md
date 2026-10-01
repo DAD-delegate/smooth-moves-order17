@@ -1,4 +1,8 @@
-﻿# Smooth Mo / Smooth Moves Order 17
+# Smooth Mo / Smooth Moves Order 17
+
+## For humans
+
+Smooth Moves is a Windows mouse and pointer motor for agents and automation that need real cursor control when APIs, SDKs, and accessibility layers cannot reach the UI. It moves, clicks, and drags like a careful person — under window and region guards — so automation can finish the steps that endpoints alone cannot.
 
 **Capability:** Smooth Mo / Smooth Moves Order 17 under Digital Normie — human-like Windows pointer motor.
 
